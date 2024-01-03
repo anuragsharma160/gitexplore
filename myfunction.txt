@@ -3,5 +3,3 @@ Twofunction - I have added another very important function here.
 Threefunction - I have added unnecessary function here.
 
 
-Newfunction - New function added
-NewerFunction - newer function added.
